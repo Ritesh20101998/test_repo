@@ -1,7 +1,7 @@
 let a=10;
 
 if(a%2==0){
-    console.log("Odd");
+    console.log("Even Number");
 }else{
-    console.log("Even");
+    console.log("Odd Number");
 }
